@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import google.generativeai as gen_ai  # Assuming the library is installed
 
 # Load environment variables
-load_dotenv()
+# load_dotenv()
 
 # Configure Streamlit page settings
 st.set_page_config(
